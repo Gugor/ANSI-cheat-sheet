@@ -1,5 +1,5 @@
-# ANSI: Cheat sheet for your texts
-A little Cheat Sheet to implement ANSI codes for customizing the look of your texts in the terminal.
+# ANSI escape codes: A simple Cheat sheet
+A little Cheat Sheet to implement ANSI escape codes for customizing the look of your texts in the terminal.
 
 ---
 
