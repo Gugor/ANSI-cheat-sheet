@@ -16,6 +16,11 @@ You can add this code to your terminal config file. If you use `zsh` for example
 ```Bash
 vim ~/.zshrc
 ```
+
+If you use just plain `bash` go here instead:
+```Bash
+vim ~/.bashrc
+```
 Add this code to the file:
 
 ```Bash
