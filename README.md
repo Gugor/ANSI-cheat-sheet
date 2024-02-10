@@ -90,7 +90,7 @@ echo_colors() {
 
 alias clrs="echo_colors"
 ```
-Now you can use the command `clrs`to show this cheat sheet, every time you can't remeber an ANSI code.
+Now you can use the command `clrs`to show this cheat sheet every time you can't remeber an ANSI code.
 ```Bash
 clrs
 ```
